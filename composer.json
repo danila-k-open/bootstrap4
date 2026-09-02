@@ -1,6 +1,6 @@
 {
-  "name": "drupal/bootstrap4",
-  "description": "Тема Vesta",
+  "name": "drupal/vesta_bootstrap4",
+  "description": "Тема Vesta Bootstrap 4",
   "type": "drupal-theme",
   "homepage": "https://github.com/danila-k-open/bootstrap4",
   "license": "MIT License",
