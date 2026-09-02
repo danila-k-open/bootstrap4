@@ -101,7 +101,7 @@ user:
 vesta_bootstrap4-js-latest:
   version: 4.6.2
   js:
-    dist/bootstrap/4.6.2/dist/js/bootstrap.bundle.js: { minified: true }
+    dist/js/bootstrap.bundle.js: { minified: true }
   dependencies:
     - core/jquery
 
